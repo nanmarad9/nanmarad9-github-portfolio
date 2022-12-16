@@ -8,7 +8,7 @@ nav {
   width: 140px;
 }
 .jumbotron {
-  background: url("/images/cloud.jpg") no-repeat center center;
+  background: url("../images/cloud.jpg") no-repeat center center;
   background-size: cover;
   height: 500px;
   text-align: center;
