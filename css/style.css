@@ -1,6 +1,16 @@
-div {
+body {
   background-color: #f9b5d0;
 }
 nav {
   background-color: #f9b5d0;
+}
+.header-logo {
+  width: 140px;
+}
+.jumbotron {
+  background: url("/images/cloud.jpg") no-repeat center center;
+  background-size: cover;
+  height: 500px;
+  text-align: center;
+  margin-bottom: 0px;
 }
